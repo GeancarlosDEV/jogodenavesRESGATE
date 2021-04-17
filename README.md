@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/GeanCarlosBJJ/jogodenavesRESGATE.git">
     <img 
-         src='/img/interface.png'
+         src='/imgs/interface.png'
          alt="Jogo de Naves" 
     />
   </a>
